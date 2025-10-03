@@ -11,4 +11,5 @@ public class EmployeeRepoApproach {
     public Long empId;
     public String empName;
     public LocalDate joinDate;
+    public Long deptId;
 }
